@@ -1,0 +1,148 @@
+pais,turistas_millones,ingresos_estimados_mdd
+Francia,48.23,52599.73
+España,10.07,11032.03
+Estados Unidos,37.62,50769.87
+China,71.35,66854.87
+Italia,0.89,1223.02
+Turquía,43.5,54554.35
+México,118.13,129149.03
+Tailandia,49.21,55145.71
+Alemania,202.16,198046.66
+Reino Unido,33.44,44357.49
+Japón,66.61,77201.81
+Austria,71.58,73340.74
+Grecia,128.14,155976.5
+Malasia,32.31,48368.53
+Rusia,46.26,51102.66
+Canadá,104.88,151497.48
+Polonia,179.3,186743.06
+Países Bajos,77.93,65329.72
+Arabia Saudita,14.47,13644.77
+Macao,68.16,74504.78
+Croacia,2.26,2155.46
+Emiratos Árabes,12.53,10025.99
+India,10.92,15730.27
+Corea del Sur,59.31,82483.34
+Singapur,48.67,64225.15
+Hungría,125.67,115298.48
+Suiza,15.42,13635.2
+Egipto,36.26,30723.94
+Portugal,31.65,41360.87
+Marruecos,81.04,117521.42
+Vietnam,9.59,10562.19
+Indonesia,49.75,43949.07
+Sudáfrica,114.2,132320.68
+Australia,97.3,101598.94
+Bélgica,141.51,150337.03
+Bahréin,136.49,168555.79
+Dinamarca,108.09,140852.37
+Bulgaria,14.01,12292.69
+Túnez,12.97,10699.12
+Perú,97.42,145743.36
+Brasil,61.21,58939.71
+Argentina,73.65,61695.23
+Chile,123.99,115671.85
+Colombia,51.09,42265.25
+República Dominicana,72.12,77476.18
+Puerto Rico,173.59,236374.25
+Cuba,112.23,116592.51
+Costa Rica,55.67,61845.38
+Ecuador,28.38,36125.21
+Uruguay,74.92,86624.44
+Panamá,27.8,39003.73
+Guatemala,108.48,152547.29
+El Salvador,172.66,139325.83
+Honduras,2.82,3791.86
+Nicaragua,86.55,97153.55
+Paraguay,73.4,109526.63
+Bolivia,56.55,64368.74
+Venezuela,113.69,169492.14
+Guyana,141.01,187289.28
+Surinam,106.67,103899.08
+Belice,92.05,108331.48
+Suecia,85.63,127973.6
+Noruega,15.32,21452.16
+Finlandia,54.28,47123.55
+Irlanda,66.38,85926.28
+Islandia,4.99,5199.11
+Estonia,30.05,24186.87
+Letonia,61.94,67046.13
+Lituania,43.45,41900.06
+Ucrania,41.17,56534.99
+Rumania,131.3,136044.06
+Serbia,47.15,65032.42
+Eslovaquia,116.68,93392.84
+Eslovenia,56.68,57557.03
+Bosnia,59.52,57663.91
+Albania,35.52,34223.42
+Macedonia,115.62,98014.62
+Nueva Zelanda,95.82,89207.17
+Fiyi,110.44,131300.43
+Samoa,1.74,1746.88
+Vanuatu,104.31,113924.91
+Papúa Nueva Guinea,44.38,47211.75
+Filipinas,57.55,81325.83
+Taiwán,120.08,172159.81
+Sri Lanka,62.32,71360.75
+Maldivas,137.28,141550.67
+Nepal,27.9,24405.82
+Bután,175.53,257569.57
+Bangladés,57.12,48104.11
+Pakistán,72.05,72651.99
+Irán,40.19,40537.5
+Irak,131.12,134303.71
+Jordania,154.61,141468.27
+Líbano,143.22,193091.07
+Israel,77.32,68486.07
+Qatar,22.49,27987.34
+Kuwait,50.06,44387.81
+Omán,28.71,24385.55
+Yemen,110.9,159319.01
+Kenia,94.08,87785.12
+Tanzania,71.0,97616.13
+Uganda,30.48,36004.24
+Etiopía,132.92,113580.08
+Nigeria,75.02,110190.41
+Ghana,24.59,23922.94
+Senegal,100.99,141562.91
+Costa de Marfil,131.13,120399.24
+Camerún,172.87,241630.77
+Madagascar,81.13,65655.28
+Zambia,6.73,7795.0
+Zimbabue,22.98,30761.25
+Botsuana,75.15,109294.92
+Namibia,50.08,71936.99
+Angola,73.31,100708.69
+Mozambique,63.85,90777.71
+Ruanda,122.05,114660.33
+Argelia,90.78,90682.78
+Libia,0.98,982.23
+Sudán,111.34,118458.83
+Malta,6.96,7484.26
+Chipre,64.04,75643.33
+Mónaco,30.14,27485.14
+Andorra,130.52,167571.06
+San Marino,43.84,40214.28
+Vaticano,78.04,79383.53
+Luxemburgo,72.64,83706.09
+Liechtenstein,15.2,20634.13
+Kazajistán,127.4,167865.87
+Uzbekistán,1.71,2140.7
+Mongolia,32.66,29689.29
+Georgia,59.67,70585.54
+Armenia,51.53,44378.28
+Azerbaiyán,80.86,86047.51
+Tayikistán,142.39,155128.43
+Kirguistán,51.88,42949.79
+Turkmenistán,86.31,85601.54
+Afganistán,44.65,65588.82
+Camboya,82.45,120998.91
+Laos,47.58,49798.6
+Myanmar,49.89,41417.19
+Brunéi,19.92,18433.3
+Timor Oriental,14.14,15194.17
+Jamaica,64.88,94948.36
+Bahamas,69.74,62685.06
+Barbados,149.46,199448.55
+Haití,152.65,133733.27
+Trinidad,97.2,144524.77
